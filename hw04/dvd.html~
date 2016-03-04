@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head><title>SVG Demo</title></head>
+  <body>
+    <svg id="vimage" height="500"
+	 width="500" style="border: 1px solid;">
+      <img src="dvd.jpg" height="100" width="100">
+    </svg>
+    <button type="button" id="animate">
+      Animate!
+    </button>
+
+  </body>
+<script src="dvd.js"></script>
+</html>
