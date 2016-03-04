@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title> CANVAS </title>
+  </head>
+
+  <body>
+
+    <canvas height="538" width="538" id="ftb2maga">
+    </canvas>
+
+  </body>
+	
+</html>
+  <script src="canvas.js"></script> 
